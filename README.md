@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,Statistics,Visualization in Matplotlib and Seaborn,SQL,Advance MS Excel, Power Bi, Tableau and Basic of Machine Learning
 - 💞️ I’m looking to collaborate on any project once i know programming language 
 - 📫 How to reach me mtapas749@gmail.com 
-- [Tableau](https://github.com/Tapasss/Tapas7777777/assets/96340563/061fa451-b22f-4197-ad2b-c5546859913e)
+- [Tableau](https://public.tableau.com/app/profile/tapas.mandal4769)
 
 
 <!---
